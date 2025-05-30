@@ -80,7 +80,7 @@ async function playTrack(songId,image,name) {
     const options = {
         method: 'GET',
         headers: {
-            'x-rapidapi-key': 'feeef79fa4msh66e117093a5b5ddp1e7a60jsn489e49d87b4c',
+            'x-rapidapi-key': <Your-API-Key>,
             'x-rapidapi-host': 'spotify23.p.rapidapi.com'
         }
     };
